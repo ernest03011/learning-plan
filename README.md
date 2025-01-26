@@ -17,11 +17,11 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 
 ### 2.1 Roadmap Progress
 - [roadmap.sh](https://roadmap.sh/)
-  - **PHP** - 18%  
-  - **Git and GitHub** - 14%  
-  - **Design & Architecture** - 12%  
+  - **PHP** - 50%  
+  - **Git and GitHub** - 20%  
+  - **Design & Architecture** - 23%  
   - **Backend** - 26%  
-  - **Docker** - 5%  
+  - **Docker** - 31%  
   - **API Design** - Not Started
 
 ### 2.2 Resources in Use
