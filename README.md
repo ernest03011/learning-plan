@@ -17,8 +17,8 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 
 ### 2.1 Roadmap Progress
 - [roadmap.sh](https://roadmap.sh/)
-  - **PHP** - 75%  
-  - **Git and GitHub** - 20%  
+  - **PHP** - 76%  
+  - **Git and GitHub** - 24%  
   - **Design & Architecture** - 23%  
   - **Backend** - 27%  
   - **Docker** - 37%  
