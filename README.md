@@ -1,6 +1,6 @@
 # My Continuous Learning & Study Plan
 
-I’m always eager to learn and improve my skills in software development, leveraging my background in web hosting (from my current job) and my major in Computer Science. Below is a snapshot of my study roadmap, resources, and projects—both ongoing and future plans.
+I’m always eager to learn and improve my skills in software development, leveraging my background in web hosting (from my work experience) and my major in Computer Science. Below is a snapshot of my study roadmap, resources, and projects—both ongoing and future plans.
 
 ---
 
@@ -16,12 +16,13 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 ## 2. Current Focus
 
 ### 2.1 Roadmap Progress
-- [roadmap.sh](https://roadmap.sh/)
-  - **PHP** - 76%  
-  - **Git and GitHub** - 24%  
+- [roadmap.sh - Profile](https://roadmap.sh/u/ernest03011)
+  - **PHP** - 78%  
+  - **Git and GitHub** - 31%  
   - **Design & Architecture** - 23%  
-  - **Backend** - 27%  
-  - **Docker** - 37%  
+  - **Backend** - 32%  
+  - **Docker** - 37%
+  - **Prompt Engineering** - 27%
   - **API Design** - Not Started
 
 ### 2.2 Resources in Use
@@ -29,7 +30,6 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 - **Books**:  
   - *The Pragmatic Programmer*  
   - *Dive into Design Patterns* by Alexander Shvets  
-  - *Code Complete 2* (borrowed from my current workplace)
 - **Security Course**: Recently took a *Web Security* course on [TryHackMe](https://tryhackme.com/)
 
 ---
@@ -37,21 +37,22 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 ## 3. Projects & Practice
 
 ### 3.1 Currently Working On
-- **Landing Page (Private Repo)**  
-  *Cozy Countryside Retreat*: Building a PHP-based landing page for a friend.  
-  [Link (Demo)](https://hc.manueldjs.online/) (private repo, not publicly available)
+- [ernest03011/sys_coffee](https://github.com/ernest03011/sys_coffee)  
 
-### 3.2 Future Plans
-1. **Explore and Deploy** a first version of APIs from [Portal de APIs dominicano - Catálogo de APIs](https://developer.digital.gob.do/apis)  
-2. **Refactor**:  
-   - [ernest03011/sys_coffee](https://github.com/ernest03011/sys_coffee)  
+
+### 3.2 Future Plans 
+1. **Refactor**:  
    - [ernest03011/dominios-web](https://github.com/ernest03011/dominios-web)  
-   - [ernest03011/sys_workout](https://github.com/ernest03011/sys_workout/tree/master)  
+   - [ernest03011/sys_workout](https://github.com/ernest03011/sys_workout/tree/master)
+2. **Create a blog, and other projects related to hobbies**
 3. **Create a Portfolio Landing Page**  
 4. **Integrate AI** features into each project during refactoring or new development
 
 ### 3.3 Completed (No Refactor Planned)
 - [Podcast Project](https://pod.manueldjs.online/)
+- **Landing Page (Private Repo)**  
+  *Cozy Countryside Retreat*: Building a PHP-based landing page for a friend.  
+  [Link (Demo)](https://hc.manueldjs.online/) (private repo, not publicly available)
 
 ---
 
