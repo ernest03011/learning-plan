@@ -17,13 +17,13 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 
 ### 2.1 Roadmap Progress
 - [roadmap.sh - Profile](https://roadmap.sh/u/ernest03011)
-  - **PHP** - 78%  
-  - **Git and GitHub** - 31%  
+  - **PHP** - 83%  
+  - **Git and GitHub** - 32%  
   - **Design & Architecture** - 23%  
-  - **Backend** - 32%  
+  - **Backend** - 45%  
   - **Docker** - 37%
-  - **Prompt Engineering** - 27%
-  - **API Design** - Not Started
+  - **Prompt Engineering** - Completed
+  - **API Design** - 39%
 
 ### 2.2 Resources in Use
 - **YouTube**: [Learning PHP](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
@@ -37,22 +37,27 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 ## 3. Projects & Practice
 
 ### 3.1 Currently Working On
-- [ernest03011/sys_coffee](https://github.com/ernest03011/sys_coffee)  
+- **A blog to document my journey:** [ernest03011/api_blog_portfolio](https://github.com/ernest03011/api_blog_portfolio)
+- **A portfolio landing page to express who I am, what I do, and where my projects can be found:** Private Repo [A URL to show it once demo is ready to be online, maintenance page for now](https://manueldjs.online/)  
 
-
+ 
 ### 3.2 Future Plans 
 1. **Refactor**:  
    - [ernest03011/dominios-web](https://github.com/ernest03011/dominios-web)  
    - [ernest03011/sys_workout](https://github.com/ernest03011/sys_workout/tree/master)
-2. **Create a blog, and other projects related to hobbies**
-3. **Create a Portfolio Landing Page**  
+2. **Create an API about Electronic Cars**
+3. **Add more features to Portfolio web (such as integrating APIs like Github's)**  
 4. **Integrate AI** features into each project during refactoring or new development
 
 ### 3.3 Completed (No Refactor Planned)
 - [Podcast Project](https://pod.manueldjs.online/)
-- **Landing Page (Private Repo)**  
+- **Landing Page**  
   *Cozy Countryside Retreat*: Building a PHP-based landing page for a friend.  
-  [Link (Demo)](https://hc.manueldjs.online/) (private repo, not publicly available)
+  [Link (Demo)](https://hc.manueldjs.online/)
+- **Coffee Lovers (refactored - v2 branch)**
+  A web application about building a community around coffee enthusiasts, and allowing them to
+  share recipes, rate them, and add new recipes.  
+ [ernest03011/sys_coffee](https://github.com/ernest03011/sys_coffee) -- [Live Demo](https://cafe.manueldjs.online/)_
 
 ---
 
