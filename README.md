@@ -57,7 +57,9 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 - **Coffee Lovers (refactored - v2 branch)**
   A web application about building a community around coffee enthusiasts, and allowing them to
   share recipes, rate them, and add new recipes.  
- [ernest03011/sys_coffee](https://github.com/ernest03011/sys_coffee) -- [Live Demo](https://cafe.manueldjs.online/)_
+ [ernest03011/sys_coffee](https://github.com/ernest03011/sys_coffee) -- [Live Demo](https://cafe.manueldjs.online/)
+- **API about Electric Vehicles**
+  I used a Dataset from Kaggle which was about Electric Vehicles and created an API in order to interact with certain data from it. 
 
 ---
 
@@ -66,7 +68,7 @@ I’m focusing on **PHP**, **backend development**, **software design and archit
 - **Degree:** Major in Computer Science  
   - [Pensum](https://soft.uasd.edu.do/PensumGrado/?periodoV=999999&programa=P-INFO&plan=200820&nivel=GR)  
 - **Work Experience:** Technical support for web hosting, domains, and DNS management. This has given me a solid understanding of server environments and infrastructure.  
-- **Programming Exposure:** Academic background in C++, Java, and Python; current focus on PHP + JavaScript for web projects.
+- **Programming Exposure:** Academic background in C++, Java, and Python; current focus on PHP + JavaScript + WordPress for web projects.
 
 ---
 
