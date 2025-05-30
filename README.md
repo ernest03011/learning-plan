@@ -33,7 +33,8 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
   - *Dive into Design Patterns* by Alexander Shvets
   - *Algorithms to Live By* 
 - **Security Course**: Recently took a *Web Security* course on [TryHackMe](https://tryhackme.com/)
-- I have participated in Webinars related to *Digital Marketing* and *Market Analysis*
+- I have participated in Webinars related to **Digital Marketing**, **Innovation** and **Market Analysis**
+- Learning **Github Actions** in a Bootcamp - Codigo FAcilito 
 
 ---
 
@@ -41,7 +42,7 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
 
 ### 3.1 Currently Working On
 - **A blog to document my journey:** [ernest03011/api_blog_portfolio](https://github.com/ernest03011/api_blog_portfolio)
-- **A portfolio landing page to express who I am, what I do, and where my projects can be found:** Private Repo [A URL to show it once demo is ready to be online, maintenance page for now](https://manueldjs.online/)
+- **A portfolio landing page to express who I am, what I do, and where my projects can be found: https://manueldjs.online/
 - **An API related to Blog** in order to implement CRUD, pagination, sorting, filtering, authorization and authentication system while learning about Laravel standalone packages that I can use with PHP
 
  
