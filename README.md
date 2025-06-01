@@ -6,7 +6,7 @@ I’m always eager to learn and improve my skills in software development, lever
 
 ## 1. Overview
 
-I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack development**, **WordPress** **software design and architecture**, and **web security**. I’ve had academic exposure to C++, Java, and Python but am currently honing my PHP and JavaScript skills. My goal is to build, refactor, and iterate on personal projects, integrating **AI** where possible.
+I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack development**, **WordPress**, **software design and architecture**, and **web security**. I’ve had academic exposure to C++, Java, and Python but am currently honing my PHP and JavaScript skills. My goal is to build, refactor, and iterate on personal projects, integrating **AI** where possible.
 
 - **Looking for:** A Job, a mentor, pair programming partner, and collaboration on open-source or personal projects.
 - **Ultimate Objective:** Grow into a well-rounded software developer with solid problem solving expertise.
