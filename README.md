@@ -42,7 +42,7 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
 
 ### 3.1 Currently Working On
 - **A blog to document my journey:** [ernest03011/api_blog_portfolio](https://github.com/ernest03011/api_blog_portfolio)
-- **A portfolio landing page to express who I am, what I do, and where my projects can be found: [Portfolio Website](https://manueldjs.online/?utm_source=github&utm_content=learning-plan) https://manueldjs.online/
+- **A portfolio landing page to express who I am, what I do, and where my projects can be found: [Portfolio Website](https://manueldjs.online/?utm_source=github&utm_content=learning-plan)
 - **An API related to Blog** in order to implement CRUD, pagination, sorting, filtering, authorization and authentication system while learning about Laravel standalone packages that I can use with PHP
 
  
