@@ -18,10 +18,10 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
 ### 2.1 Roadmap Progress
 - [roadmap.sh - Profile](https://roadmap.sh/u/ernest03011)
   - **PHP** - 83%  
-  - **Git and GitHub** - 35%  
+  - **Git and GitHub** - 46%  
   - **Design & Architecture** - 24%  
   - **Backend** - 45%  
-  - **Docker** - 37%
+  - **Docker** - 33%
   - **Prompt Engineering** - Completed
   - **API Design** - 39%
   - **UX Design** - 50%
@@ -34,7 +34,8 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
   - *Algorithms to Live By* 
 - **Security Course**: Recently took a *Web Security* course on [TryHackMe](https://tryhackme.com/)
 - I have participated in Webinars related to **Digital Marketing**, **Innovation** and **Market Analysis**
-- Learning **Github Actions** in a Bootcamp - Codigo FAcilito 
+- Learning **Github Actions** in a Bootcamp - Codigo Facilito
+- I have participated in Front End Nation 2025
 
 ---
 
