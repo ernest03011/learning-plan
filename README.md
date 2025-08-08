@@ -6,7 +6,7 @@ I’m always eager to learn and improve my skills in software development, lever
 
 ## 1. Overview
 
-I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack development**, **WordPress**, **software design and architecture**, and **web security**. I’ve had academic exposure to C++, Java, and Python but am currently honing my PHP and JavaScript skills. My goal is to build, refactor, iterate on personal projects, and integrating **AI**. 
+I’m focusing on MERN stack **(MongoDB, Express.js, React, y Node.js)**, "Astro.js (content-driven website)", **software design and architecture**. I’ve had academic exposure to C++, Java, and Python but am currently honing my Website development skills. My goal is to build, refactor, iterate on personal projects, and integrating **AI**. 
 
 - **Looking for:** A Job, a mentor, pair programming partner, and collaboration on open-source or personal projects.
 - **Ultimate Objective:** Grow into a well-rounded software developer with solid problem solving expertise.
@@ -17,7 +17,9 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
 
 ### 2.1 Roadmap Progress
 - [roadmap.sh - Profile](https://roadmap.sh/u/ernest03011)
-  - **PHP** - 83%  
+  - **Astro.js** -- (Not listed on Roadmap)
+  - **React.js** -- (Following project-based tutorial in Youtube)
+  - **Node.js** -- (will follow project-based tutorial in Youtube)
   - **Git and GitHub** - 69%  
   - **Design & Architecture** - 23%  
   - **Backend** - 45%  
@@ -25,12 +27,14 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
   - **Prompt Engineering** - Completed
   - **API Design** - 39%
   - **UX Design** - 50%
+  - **PHP** - 83%  
 
 ### 2.2 Enrolled Courses
-- UX Fundamentals (UASD - Universidad Automoma de Santo Domingo)
-- Github Action (Codigo Facilito)
+- Not enrolled courses, but following project-based tutorial. 
 
 ### 2.3 Completed Courses, bootcamps, activities, etc. 
+- UX Fundamentals (UASD - Universidad Automoma de Santo Domingo)
+- Github Action (Codigo Facilito)
 - **Security Course**: Recently took a *Web Security* course on [TryHackMe](https://tryhackme.com/)
 - I have participated in a **hackathon** (Hackaton Cree BanReservas) where I learned about **problem solving** (finding the root cause), creating a solution that
   provides value to the user, and be able to prototype to get feedback from the users. Also, I learned about business model,
@@ -40,9 +44,9 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
   
 ### 2.4 Resources in Use
 - **YouTube**:
-  - [Learning PHP](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-  - Vue Mastery Channel
-  - Vue School channel
+  - FreecodeCamp
+  - Code in Public (Astro.js)
+  - MiduDev
 
 
 ### 2.5 Books
@@ -56,10 +60,8 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
 
 ### 3.1 Currently Working On
 
-- **A blog to document my journey:** [ernest03011/api_blog_portfolio](https://github.com/ernest03011/api_blog_portfolio)
-- **A portfolio landing page** to express who I am, what I do, and where my projects can be found: [Portfolio Website](https://manueldjs.online/?utm_source=github&utm_content=learning-plan)
-- **An API related to Blog** in order to implement CRUD, pagination, sorting, filtering, authorization and authentication system while learning about Laravel standalone packages that I can use with PHP
-
+- **Currently working on Freelance Projects.** Mostly portfolio + Business type website.
+- **Blog Website:** I will create a blog website to document my journey using Astro.js
   
 - **Refactor**:  
    - [ernest03011/dominios-web](https://github.com/ernest03011/dominios-web)  
@@ -114,7 +116,7 @@ I’m focusing on **Javascript (Vuejs) & PHP (Laravel)**, **Full Stack developme
 
 ## 5. Goals & Next Steps
 
-1. **Solidify Full Stack Development Skills**: Achieve deeper proficiency in Javascript(Vuejs) and PHP (Laravel) and continue exploring WordPress, Docker, CI/CD, and API design.  
+1. **Solidify Full Stack Development Skills**: Achieve deeper proficiency in Javascript(React.js, Astro.js) and Node.js / PHP and continue exploring Docker, CI/CD, and API design.  
 2. **Pair Programming & Mentorship**: Actively seeking a mentor or partner to exchange knowledge, review code, and tackle larger projects together.  
 3. **Documentation & Reflection**: After each project, planning to write a retrospective on challenges, successes, and lessons learned.
 
